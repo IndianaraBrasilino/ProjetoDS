@@ -1,0 +1,16 @@
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\DTO_Projeto2\bin\Debug\DTO_Projeto2.dll
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\DTO_Projeto2\bin\Debug\DTO_Projeto2.pdb
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\DTO_Projeto2\obj\Debug\DTO_Projeto2.csprojResolveAssemblyReference.cache
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\DTO_Projeto2\obj\Debug\DTO_Projeto2.dll
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\DTO_Projeto2\obj\Debug\DTO_Projeto2.pdb
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\DTO_Projeto2\bin\Debug\DTO_Projeto2.dll
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\DTO_Projeto2\bin\Debug\DTO_Projeto2.pdb
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\DTO_Projeto2\obj\Debug\DTO_Projeto2.csprojResolveAssemblyReference.cache
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\DTO_Projeto2\obj\Debug\DTO_Projeto2.dll
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\DTO_Projeto2\obj\Debug\DTO_Projeto2.pdb
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\DTO_Projeto2\bin\Debug\DTO_Projeto2.dll
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\DTO_Projeto2\bin\Debug\DTO_Projeto2.pdb
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\DTO_Projeto2\obj\Debug\DTO_Projeto2.csprojAssemblyReference.cache
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\DTO_Projeto2\obj\Debug\DTO_Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\DTO_Projeto2\obj\Debug\DTO_Projeto2.dll
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\DTO_Projeto2\obj\Debug\DTO_Projeto2.pdb

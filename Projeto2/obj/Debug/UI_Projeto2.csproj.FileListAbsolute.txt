@@ -1,0 +1,44 @@
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\bin\Debug\Projeto2.exe.config
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\bin\Debug\Projeto2.exe
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\bin\Debug\Projeto2.pdb
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\obj\Debug\UI_Projeto2.csprojResolveAssemblyReference.cache
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\obj\Debug\UI_Projeto2.Form1.resources
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\obj\Debug\UI_Projeto2.Properties.Resources.resources
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\obj\Debug\UI_Projeto2.csproj.GenerateResource.Cache
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\obj\Debug\Projeto2.exe
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\obj\Debug\Projeto2.pdb
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\bin\Debug\BLL_Projeto2.dll
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\bin\Debug\DTO_Projeto2.dll
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\bin\Debug\BLL_Projeto2.pdb
+G:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\bin\Debug\DTO_Projeto2.pdb
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\bin\Debug\Projeto2.exe.config
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\obj\Debug\Projeto2.exe
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\obj\Debug\Projeto2.pdb
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\bin\Debug\Projeto2.exe
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\bin\Debug\Projeto2.pdb
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\bin\Debug\BLL_Projeto2.dll
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\bin\Debug\DTO_Projeto2.dll
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\bin\Debug\BLL_Projeto2.pdb
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\bin\Debug\DTO_Projeto2.pdb
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\obj\Debug\UI_Projeto2.csprojResolveAssemblyReference.cache
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\obj\Debug\UI_Projeto2.Form1.resources
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\obj\Debug\UI_Projeto2.Properties.Resources.resources
+F:\2 Semestre\DS2\ProjetoDS\Projeto2\Projeto2\obj\Debug\UI_Projeto2.csproj.GenerateResource.Cache
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\bin\Debug\Projeto2.exe.config
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\bin\Debug\Projeto2.exe
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\bin\Debug\Projeto2.pdb
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\bin\Debug\BLL_Projeto2.dll
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\bin\Debug\DTO_Projeto2.dll
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\bin\Debug\BLL_Projeto2.pdb
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\bin\Debug\DTO_Projeto2.pdb
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\obj\Debug\UI_Projeto2.csprojAssemblyReference.cache
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\obj\Debug\UI_Projeto2.Form1.resources
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\obj\Debug\UI_Projeto2.home.resources
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\obj\Debug\UI_Projeto2.Properties.Resources.resources
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\obj\Debug\UI_Projeto2.csproj.GenerateResource.cache
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\obj\Debug\UI_Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\obj\Debug\UI_Projeto2.csproj.CopyComplete
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\obj\Debug\Projeto2.exe
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\obj\Debug\Projeto2.pdb
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\bin\Debug\DAL_Projeto2.dll
+C:\Users\Gilson\Desktop\ProjetoDS\Projeto2\Projeto2\bin\Debug\DAL_Projeto2.pdb
